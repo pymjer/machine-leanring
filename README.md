@@ -1,2 +1,2 @@
-# machine-leanring
+# machine-learning
 machine leanring project.
