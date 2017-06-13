@@ -3,7 +3,7 @@ __pycache__/
 __pycache__
 *.py[cod]
 *$py.class
-MINIST_DATA/
+MNIST_data/
 
 collected_static/
 # C extensions
